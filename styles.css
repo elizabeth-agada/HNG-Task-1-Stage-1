@@ -21,7 +21,7 @@ header h1 {
 header img {
     width: 150px;
     height: 150px;
-    border-radius: 50%;
+    border-radius: 10%;
     margin-top: 10px;
 }
 
